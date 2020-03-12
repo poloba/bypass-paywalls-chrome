@@ -15,6 +15,7 @@
 
 ### Bypass the following sites' paywalls with this extension
 
+[ABC](https://www.abc.es)\
 [Adweek](https://www.adweek.com)\
 [Algemeen Dagblad](https://www.ad.nl)\
 [American Banker](https://www.americanbanker.com)\
